@@ -1,0 +1,6 @@
+site_name: Documentation test
+site_url: https://my-docs.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
